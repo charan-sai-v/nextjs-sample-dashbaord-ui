@@ -1,3 +1,4 @@
+"use client";
 import AdCards from "@/components/ad-cards";
 import ArticleCards from "@/components/article-cards";
 import HeadCards from "@/components/head-cards";
