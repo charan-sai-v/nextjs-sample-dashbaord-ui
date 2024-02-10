@@ -17,49 +17,49 @@ const routes = [
     {
         label: "Content",
         icon: File,
-        href: "/",
+        href: "/content",
         color: "text-violet-500"
     },
     {
         label: "Team",
         icon: Users2,
-        href: "/",
+        href: "/team",
         color: "text-violet-500"
     },
     {
         label: "User",
         icon: UserSquare2,
-        href: "/",
+        href: "/user",
         color: "text-pink-500"
     },
     {
         label: "App/Web",
         icon: ComputerIcon,
-        href: "/",
+        href: "/app",
         color: "text-orange-700"
     },
     {
         label: "Analytics",
         icon: LineChart,
-        href: "/",
+        href: "/analytics",
         color: "text-emerald-500"
     },
     {
         label: "Media",
         icon: VideoIcon,
-        href: "/",
+        href: "/media",
         color: "text-gren-700"
     },
     {
       label: "Notification",
       icon: Bell,
-      href: "/",
+      href: "/notification",
       color: "text-gren-700"
     },
     {
         label: "Settings",
         icon: Settings,
-        href: "/",
+        href: "/settings",
     },
 
 ]
